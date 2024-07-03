@@ -1,5 +1,5 @@
 # graph.py
-# By: Ismael Cortez, Carl Vincent Cuyos, Nelson Norman, Kaixin Yu
+# By: Ismael Cortez
 # Adapted from: James Spencer <jamessp [at] gmail.com>.
 #
 # A simple python dungeon generator by James Spencer

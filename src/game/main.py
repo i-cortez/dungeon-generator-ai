@@ -1,6 +1,6 @@
 # main.py
 #
-# By: Ismael Cortez, Carl Vincent Cuyos, Nelson Norman, Kaixin Yu
+# By: Ismael Cortez
 # Adapted from: KidsCanCode
 #   https://github.com/kidscancode/pygame_tutorials/blob/master/tilemap/part%2004/main.py
 #

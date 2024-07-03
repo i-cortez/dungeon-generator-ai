@@ -1,6 +1,6 @@
 # sprites.py
 #
-# By: Ismael Cortez, Carl Vincent Cuyos, Nelson Norman, Kaixin Yu
+# By: Ismael Cortez
 #
 import pygame as pg
 from settings import *
