@@ -1,3 +1,8 @@
+# metrics.py
+#
+# By: Ismael Cortez, Nelson Norman
+# Adapted from: A simple python dungeon generator by James Spencer
+#
 import pathfinding
 import numpy as np
 import sys

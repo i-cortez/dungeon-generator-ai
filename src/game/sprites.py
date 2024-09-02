@@ -1,6 +1,9 @@
 # sprites.py
 #
-# By: Ismael Cortez
+# By: Ismael Cortez, Nelson Norman
+# Adapted from:
+#   A simple python dungeon generator by James Spencer
+#   Pygame Tutorials by Kids Can Code
 #
 import pygame as pg
 from settings import *

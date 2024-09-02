@@ -1,6 +1,6 @@
 # settings.py
 #
-# By: Ismael Cortez
+# By: Ismael Cortez, Nelson Norman
 #
 import pygame
 import random

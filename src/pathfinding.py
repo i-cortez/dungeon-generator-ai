@@ -1,4 +1,8 @@
-
+# pathfinding.py
+#
+# By: Ismael Cortez, Nelson Norman
+# Adapted from: A simple python dungeon generator by James Spencer
+#
 from math import sqrt
 from heapq import heappush, heappop
 

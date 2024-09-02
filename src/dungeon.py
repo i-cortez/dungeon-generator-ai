@@ -1,16 +1,7 @@
 # dungeon.py
 #
-# By: Ismael Cortez
-# Adapted from: James Spencer <jamessp [at] gmail.com>.
-# and Gaming AI P5
-# A simple python dungeon generator by James Spencer
-#
-# To the extent possible under law, the person who associated CC0 with
-# pathfinder.py has waived all copyright and related or neighboring rights
-# to pathfinder.py.
-
-# You should have received a copy of the CC0 legalcode along with this
-# work. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
+# By: Ismael Cortez, Nelson Norman
+# Adapted from: A simple python dungeon generator by James Spencer
 #
 from __future__ import print_function
 import copy

@@ -1,8 +1,9 @@
 # tilemap.py
 #
-# By: Ismael Cortez
-# Adapted from: KidsCanCode
-#   https://github.com/kidscancode/pygame_tutorials/blob/master/tilemap/part%2004/tilemap.py
+# By: Ismael Cortez, Nelson Norman
+# Adapted from:
+#   A simple python dungeon generator by James Spencer
+#   Pygame Tutorials by Kids Can Code
 #
 import pygame as pg
 from settings import *

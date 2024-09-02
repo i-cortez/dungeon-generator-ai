@@ -1,3 +1,10 @@
+# metric_old.py
+#
+# By: Ismael Cortez, Nelson Norman
+# Adapted from:
+#   A simple python dungeon generator by James Spencer
+#   Pygame Tutorials by Kids Can Code
+#
 import pathfinding
 import numpy as np
 import sys
